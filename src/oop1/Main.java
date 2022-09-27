@@ -13,6 +13,7 @@ public class Main {
 
                     // Get
      System.out.println(product1.name);
+     System.out.println(product1.discount);
  }
 
 }
