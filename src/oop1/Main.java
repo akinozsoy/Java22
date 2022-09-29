@@ -56,5 +56,6 @@ public class Main {
         corporateCustomer.setCustomerNumber("54321");
 
         Customer [] customers = {individualCustomer,corporateCustomer};
+
     }
 }
