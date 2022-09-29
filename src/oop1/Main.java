@@ -55,7 +55,7 @@ public class Main {
         corporateCustomer.setTaxNumber("1111111111");
         corporateCustomer.setCustomerNumber("54321");
 
-        Customer [] customers = {individualCustomer,corporateCustomer};
+        //Customer [] customers = {individualCustomer,corporateCustomer};
 
     }
 }
