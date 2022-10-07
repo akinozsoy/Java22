@@ -5,7 +5,7 @@ import oopWithNLayeredApp.entities.Product;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        Product product1 = new Product(1,"Iphone Xr",1000);
+        Product product1 = new Product(1,"Iphone Xr",9);
 
         ProductManager productManager = new ProductManager();
         productManager.add(product1);
